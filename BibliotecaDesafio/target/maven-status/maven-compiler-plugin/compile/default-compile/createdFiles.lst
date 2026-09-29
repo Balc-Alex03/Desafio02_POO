@@ -1,0 +1,9 @@
+beans/AutorBeans.class
+datos/CategoriaDatos.class
+datos/AutorDatos.class
+vista/frmBiblioteca.class
+beans/LibroBeans.class
+vista/frmBiblioteca$1.class
+beans/CategoriaBeans.class
+datos/LibroDatos.class
+util/Conexion.class
